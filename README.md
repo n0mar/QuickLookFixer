@@ -25,12 +25,7 @@ This repository includes two downloadable files: "**Reset QuickLook**" and "**Re
 
 In almost every case you should use **Reset QuickLook (and Reset Disk Cache)**. If you know what you're doing, and you don't wish to clear the cache, use **Reset QuickLook**.
 
-**Reset QuickLook** performs `qlmanage -r`
-
-**Reset QuickLook (and Reset Disk Cache)** performs `qlmanage -r cache`
-
-
-| Workflow                               | Command           | Function                        |
-| -------------------------------------- | ----------------- | ------------------------------- |
-| Reset QuickLook                        | qlmanage -r       | Force reloading Generators list |
-| Reset QuickLook (and Reset Disk Cache) | qlmanage -r cache | Reset thumbnail disk cache      |
+|: Workflow                              |: Command            |: Function                       |
+| -------------------------------------- | ------------------- | ------------------------------- |
+| Reset QuickLook                        | `qlmanage -r`       | Force reloading Generators list |
+| Reset QuickLook (and Reset Disk Cache) | `qlmanage -r cache` | Reset thumbnail disk cache      |
