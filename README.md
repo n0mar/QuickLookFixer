@@ -6,22 +6,27 @@ Force reloading of Generators list, and optionally reset the thumbnail disk cach
 
 This repository includes two downloadable files: "**Reset QuickLook**" and "**Reset QuickLook (and Reset Disk Cache)**".
 
-## Instructions
+## Installation
 
-1. Copy & Paste `.workflow` file/s into user Services folder, located in Library.
-  (`~/Library/Services/`)
+1. Open `.workflow` file/s. You will be prompted with the dialogue below.
 
-2. Click the App Name in the top menu bar (e.g. "**Safari**", "**iTunes**").
+![Installation Dialogue](https://user-images.githubusercontent.com/3734562/43505869-942ba9f2-95ab-11e8-8e91-521bf44bd88f.png "Installation dialogue")
 
-3. Open the **Services** menu.
+  The `.workflow` will be **moved** (*not copied*) to `~/Library/Services/`
 
-4. Click on your desired workflow.
+# Usage
 
-5. You may see a spinning gear in your menu bar (*see below*). If you don't, you probably missed it and it's done it's job correct.
+1. Click the App Name in the top menu bar (e.g. "**Safari**", "**iTunes**").
 
-![Screenshot](https://user-images.githubusercontent.com/3734562/43505464-5de2cb24-95aa-11e8-9066-af6e14718ea1.png "Screenshot")
+2. Open the **Services** menu.
 
-## Usage
+3. Click on your desired workflow.
+
+4. You may see a spinning gear in your menu bar (*see below*). If you don't, you probably missed it and it's done it's job correct.
+
+![Spinning Gear icon](https://user-images.githubusercontent.com/3734562/43505464-5de2cb24-95aa-11e8-9066-af6e14718ea1.png "Spinning Gear icon")
+
+## Additional Information
 
 In almost every case you should use **Reset QuickLook (and Reset Disk Cache)**. If you know what you're doing, and you don't wish to clear the cache, use **Reset QuickLook**.
 
