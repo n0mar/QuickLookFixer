@@ -14,7 +14,7 @@ This repository includes two downloadable files: "**Reset QuickLook**" and "**Re
 
   Selecting **Install** will **move** the workflow (**not copy**) to `~/Library/Services/`; **Open with Automator** will allow you to see the [source code for the workflow](https://github.com/n0mar/QuickLookFixer#additional-information).
 
-![Installation Dialogue](https://user-images.githubusercontent.com/3734562/43505869-942ba9f2-95ab-11e8-8e91-521bf44bd88f.png = "Installation dialogue")
+![Installation Dialogue](https://user-images.githubusercontent.com/3734562/43505869-942ba9f2-95ab-11e8-8e91-521bf44bd88f.png "Installation dialogue")
 
 # Usage
 
