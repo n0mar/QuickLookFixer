@@ -30,7 +30,7 @@ In almost every case you should use **Reset QuickLook (and Reset Disk Cache)**. 
 **Reset QuickLook (and Reset Disk Cache)** performs `qlmanage -r cache`
 
 
-| Command           | Function                        |
-| ----------------- | ------------------------------- |
-| qlmanage -r       | Force reloading Generators list |
-| qlmanage -r cache | Reset thumbnail disk cache      |
+| Workflow                               | Command           | Function                        |
+| -------------------------------------- | ----------------- | ------------------------------- |
+| Reset QuickLook                        | qlmanage -r       | Force reloading Generators list |
+| Reset QuickLook (and Reset Disk Cache) | qlmanage -r cache | Reset thumbnail disk cache      |
